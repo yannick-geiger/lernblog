@@ -2,7 +2,7 @@
 title = "Im Reich des Bieres"
 date = "2022-12-01"
 draft = false
-pinned = false
+pinned = true
 +++
 {{<Jordan Burn und Yannick Geiger besuchen die Bierbrauerei und das Gastronomielokal „Altes Tramdepot“ in Bern und schauen sich mal genauer an, wie Bier gebraut [](<>)wird. Dabei erfahren wir wie in der Brauerei „altes Tramdepot“ der Brauprozess abläuft, und was man alles beachten muss.>}}
 
