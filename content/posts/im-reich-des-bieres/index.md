@@ -1,6 +1,6 @@
 +++
 title = "Im Reich des Bieres"
-date = "2022-12-01"
+date = "2022-11-30"
 draft = false
 pinned = true
 +++
