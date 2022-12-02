@@ -6,23 +6,23 @@ pinned = true
 +++
 {{<lead>}}
 
-Jordan Burn und Yannick Geiger besuchen die Bierbrauerei und das Gastronomielokal „Altes Tramdepot“ in Bern und schauen sich mal genauer an, wie Bier gebraut [](<>)wird. Dabei erfahren wir wie in der Brauerei „altes Tramdepot“ der Brauprozess abläuft, und was man alles beachten muss.
+Jordan Burn und Yannick Geiger besuchen die Bierbrauerei und das Gastronomielokal „Altes Tramdepot“ in Bern und schauen sich mal genauer an, wie Bier gebraut wird. Dabei erfahren wir wie in der Brauerei „altes Tramdepot“ der Brauprozess abläuft, und was man alles beachten muss.
 
 {{</lead>}}
 
-# Unser Besuch in der Brauerei
+## Unser Besuch in der Brauerei
 
-Die Ankunft
+### Die Ankunft
 
 Am Montag, dem 10.10.2022, treten wir, Jordan Burn und Yannick Geiger, in die Bierbrauerei “Altes Tramdepot” beim Bärengraben in Bern ein. Uns fallen sofort zwei grosse und eindrückliche Kupfertanks, bei der Bar, ins Auge. Nun laufen wir zu der Rezeption. Da werden wir freundlich an der Rezeption aufgefordert, kurz auf Matthias Koschahre, mit dem wir uns zuvor verabredet haben, zu warten. Er wird uns durch die Brauerei führen und uns ein Interview geben. Matthias Koschahre empfängt uns knapp zwei Minuten später und beginnt dann direkt mit der Führung für uns durch die Brauerei. Den Brauprozess können wir leider nicht sehen, da hier Heute nicht gebraut wird. Das “Altes Tramdepot” ist nur eine kleine Brauerei, hier wird nicht täglich Bier gebraut, da es nicht genügend Abnehmer für das ganze Bier gibt. 
 
-# {{<box title=" Über das “Alte Tramdepot" ">}}
+{{<box title="Über das Alte Tramdepot">}}
 
 Das “alte Tramdepot” war früher, wie der Name schon vorwegnimmt, ein Depot für Trams. Doch dieses Depot wurde 1941 stillgelegt und seitdem für viele verschiedene Zwecke genutzt. Es diente zum Beispiel als Depot für Bühnenbilder und Requisiten des Stadttheaters. Schliesslich entschied man sich im Jahre 1994 dazu, das Tramdepot zu sanieren und es als gastronomischen und kulturellen Treffpunkt zu nutzen. Seitdem wurde es noch etliche Male umgebaut, um die Bierproduktion zu verbessern und das Lokal zu erweitern.
 
-`{{</box>}}`
+{{</box>}}
 
-Die Führung
+### Die Führung
 
 Zuerst sehen wir das Lager der Brauerei. Beim Betreten des Lagers, stechen uns die riesigen Gerstensäcke ins Auge. Im Lager werden wöchentlich die Lieferungen der verschiedenen Gerstensorten gelagert. Wir dürfen im Lager die verschiedenen Gerstensorten in unterschiedlichen Röststufen probieren und stellen fest, dass uns der Geschmack an Haferflocken erinnert. Je stärker die Röstung der Gerste, desto mehr nimmt sie den Geschmack von Kaffee an. Matthias Koschahre sagt dazu, dass wir gerade das probieren würden, was ebenfalls in Farmerriegeln verarbeitet wird. Zunächst sehen wir, wie die Gerste gleich im Lager geschrotet und dann direkt zu zwei grossen Kupfertanks getragen wird. Dort wird die geschrotete Gerste mit Wasser im Tank vermischt. 
 
@@ -34,23 +34,23 @@ Nun steigen wir hinab in den Keller des Gebäudes und stehen vor einer breiten u
 
 An die Bar des Tramdepots gehen wir dann auch und wählen einen Tisch, der etwas abgelegen von den anderen Leuten steht, an dem wir das Interview durchführen. Nach dem Gespräch bedanken wir uns bei Matthias Koschahre dafür, dass er sich die Zeit genommen hat, um uns die Brauerei zu zeigen und unsere Fragen zu beantworten. Ein spannender und lehrreicher Besuch in der Brauerei “Altes Tramdepot” endet nun für uns. Wir haben viel Neues und Interessantes für unsere Reportage in Erfahrung gebracht.
 
-„Also das Erste, was ich gemacht habe. Ich habe eine Wette gewonnen.“ 
+> „Also das Erste, was ich gemacht habe. Ich habe eine Wette gewonnen.“ 
+> 
+> _Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“_
 
-Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“
-
-# {{<box title="Über Matthias Koschahre">}}
+{{<box title="Über Matthias Koschahre">}}
 
 Matthias Koschahre, geboren 1983, ist der Leiter der Brauerei „Altes Tramdepot“ und das schon seit über vier Jahren. Er besitzt einen Instagram Account, auf dem er gelegentlich Posts macht, die meistens in Verbindung mit seinem Bier oder der Brauerei stehen.
 
-`{{</box>}}`
+{{</box>}}
 
-# Das Interview mit Herrn Koschahre
+## Das Interview mit Herrn Koschahre
 
 Nach der Führung setzen wir uns zusammen mit Herrn Koschahre an einen Tisch, um im Interview unsere Fragen an ihn zu richten. Wir stellen ihm einerseits Fragen, die interessant für uns sind und andererseits solche, die uns helfen, die Faszination hinter dem Bierbrauen zu verstehen. Denn das Brauen ist für viele Brauer nicht nur ein Beruf, sondern vielmehr eine Leidenschaft. 
 
-„Es ist für mich kein Beruf in der Art und Weise. Es ist mein Leben. “  
-
-Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“
+> „Es ist für mich kein Beruf in der Art und Weise. Es ist mein Leben. “  
+> 
+> _Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“_
 
 Unsere erste Frage an ihn lautet: „Was hat Sie zum Beruf des Bierbrauers gebracht und was interessiert Sie besonders an diesem Beruf?“ Darauf antwortet er uns prompt: „Also das Erste, was ich gemacht habe. Ich habe eine Wette gewonnen.“ Da sind wir natürlich erst erstaunt. Mit dieser Art von Antwort haben wir nicht gerechnet. Weiter erklärt er, dass er sich mit seinem besten Freund in einer Brauerei beworben habe und er derjenige gewesen sei, der die Stelle bekommen habe. Die Wette sei gewesen, dass der, der angestellt werden würde, einen Kasten Bier erhielt. Doch anfangs sei er von seinem Beruf als Bierbrauer genervt gewesen, weil er nur für das Putzen der Tanks zuständig gewesen sei. Der Spass am Bierbrauen sei erst später gekommen und jetzt ist er [vollkommen ](<>)überzeugt von seinem Beruf. Das Brauen sei für ihn kein Beruf in der Art und Weise, es sei sein Leben. Im Verlauf seiner Ausführung sagt er: „Es *ist für mich kein Beruf in der Art und Weise. Es ist mein Leben.”*
 
@@ -66,6 +66,6 @@ Aber ihn interessiere der Swiss Beer Award gar nicht so sehr. Es gebe andere Awa
 
 An dieser Stelle haken wir natürlich nochmals nach und fragen ihn: „Welcher Award hätte den für Sie einen viel grösseren Stellenwert?“ „Das wäre der European Brewers Convention Award, der nennt sich so.“ gibt er uns zur Antwort. Weiter führt er aus, dass es noch andere Awards gäbe, die erstrebenswert sind. Dazu gehöre zum Beispiel der European Beer Star, aber für diesen sei die Brauerei zu klein.  Zum Abschluss des Interviews bedanken wir uns bei Matthias Koschahre für das geduldige und offene Beantworten unserer Fragen und die Zeit, die wir mit ihm verbringen durften. 
 
-# Unser Fazit
+## Unser Fazit
 
 Uns beeindruckte die Führung durch die Brauerei sehr. Mit dieser beachtlichen Anzahl an aufschlussreichen und spannenden Informationen hatten wir nicht gerechnet. Wir brachten allerlei neue Dinge in Erfahrung und konnten während der Führung einen genauen Einblick in die Bierherstellung gewinnen. Es war sehr eindrücklich für uns zu sehen, wie viel Arbeit und Mühe hinter der Bierbrauerei steckt und auf welche Details geachtet werden muss. Bier ist nicht einfach schnell gebraut, es ist vielmehr ein wochenlanger, aufwändiger und leidenschaftlicher Prozess. Bier ist kein Getränk, es ist eine Leidenschaft.
