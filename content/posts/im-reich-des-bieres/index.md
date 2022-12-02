@@ -16,13 +16,11 @@ Die Ankunft
 
 Am Montag, dem 10.10.2022, treten wir, Jordan Burn und Yannick Geiger, in die Bierbrauerei “Altes Tramdepot” beim Bärengraben in Bern ein. Uns fallen sofort zwei grosse und eindrückliche Kupfertanks, bei der Bar, ins Auge. Nun laufen wir zu der Rezeption. Da werden wir freundlich an der Rezeption aufgefordert, kurz auf Matthias Koschahre, mit dem wir uns zuvor verabredet haben, zu warten. Er wird uns durch die Brauerei führen und uns ein Interview geben. Matthias Koschahre empfängt uns knapp zwei Minuten später und beginnt dann direkt mit der Führung für uns durch die Brauerei. Den Brauprozess können wir leider nicht sehen, da hier Heute nicht gebraut wird. Das “Altes Tramdepot” ist nur eine kleine Brauerei, hier wird nicht täglich Bier gebraut, da es nicht genügend Abnehmer für das ganze Bier gibt. 
 
-# {{<box title="Über das “Alte Tramdepot”">}}
+# {{<box title=" Über das “Alte Tramdepot" ">}}
 
 Das “alte Tramdepot” war früher, wie der Name schon vorwegnimmt, ein Depot für Trams. Doch dieses Depot wurde 1941 stillgelegt und seitdem für viele verschiedene Zwecke genutzt. Es diente zum Beispiel als Depot für Bühnenbilder und Requisiten des Stadttheaters. Schliesslich entschied man sich im Jahre 1994 dazu, das Tramdepot zu sanieren und es als gastronomischen und kulturellen Treffpunkt zu nutzen. Seitdem wurde es noch etliche Male umgebaut, um die Bierproduktion zu verbessern und das Lokal zu erweitern.
 
 `{{</box>}}`
-
-
 
 Die Führung
 
@@ -45,8 +43,6 @@ Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“
 Matthias Koschahre, geboren 1983, ist der Leiter der Brauerei „Altes Tramdepot“ und das schon seit über vier Jahren. Er besitzt einen Instagram Account, auf dem er gelegentlich Posts macht, die meistens in Verbindung mit seinem Bier oder der Brauerei stehen.
 
 `{{</box>}}`
-
-
 
 # Das Interview mit Herrn Koschahre
 
