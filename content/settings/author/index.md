@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Yannick Geiger"
-image = ""
+image = "/media/images.jpeg"
 email = ""
 +++
