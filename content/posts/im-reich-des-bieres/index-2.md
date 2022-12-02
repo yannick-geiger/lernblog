@@ -4,8 +4,6 @@ date = "2022-12-01"
 draft = false
 pinned = false
 +++
-
-
 {{<lead>}}
 
 Jordan Burn und Yannick Geiger besuchen die Bierbrauerei und das Gastronomielokal „Altes Tramdepot“ in Bern und schauen sich mal genauer an, wie Bier gebraut [](<>)wird. Dabei erfahren wir wie in der Brauerei „altes Tramdepot“ der Brauprozess abläuft, und was man alles beachten muss.
@@ -18,7 +16,7 @@ Die Ankunft
 
 Am Montag, dem 10.10.2022, treten wir, Jordan Burn und Yannick Geiger, in die Bierbrauerei “Altes Tramdepot” beim Bärengraben in Bern ein. Uns fallen sofort zwei grosse und eindrückliche Kupfertanks, bei der Bar, ins Auge. Nun laufen wir zu der Rezeption. Da werden wir freundlich an der Rezeption aufgefordert, kurz auf Matthias Koschahre, mit dem wir uns zuvor verabredet haben, zu warten. Er wird uns durch die Brauerei führen und uns ein Interview geben. Matthias Koschahre empfängt uns knapp zwei Minuten später und beginnt dann direkt mit der Führung für uns durch die Brauerei. Den Brauprozess können wir leider nicht sehen, da hier Heute nicht gebraut wird. Das “Altes Tramdepot” ist nur eine kleine Brauerei, hier wird nicht täglich Bier gebraut, da es nicht genügend Abnehmer für das ganze Bier gibt. 
 
-![Das Lokal von vorne Foto: Yannick Geiger](img_20221110_162215.jpg)
+![Das Lokal von vorne Foto: Jordan Burn](img_20221110_162215.jpg)
 
 # {{<box title="Über das “Alte Tramdepot”">}}
 
