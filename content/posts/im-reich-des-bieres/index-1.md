@@ -40,9 +40,9 @@ Nun steigen wir hinab in den Keller des Gebäudes und stehen vor einer breiten u
 
 An die Bar des Tramdepots gehen wir dann auch und wählen einen Tisch, der etwas abgelegen von den anderen Leuten steht, an dem wir das Interview durchführen. Nach dem Gespräch bedanken wir uns bei Matthias Koschahre dafür, dass er sich die Zeit genommen hat, um uns die Brauerei zu zeigen und unsere Fragen zu beantworten. Ein spannender und lehrreicher Besuch in der Brauerei “Altes Tramdepot” endet nun für uns. Wir haben viel Neues und Interessantes für unsere Reportage in Erfahrung gebracht.
 
-„Also das Erste, was ich gemacht habe. Ich habe eine Wette gewonnen.“ 
+*„Also das Erste, was ich gemacht habe. Ich habe eine Wette gewonnen.“* 
 
-Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“
+*Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“*
 
 # {{<box title="Über Matthias Koschahre">}}
 
@@ -54,9 +54,9 @@ Matthias Koschahre, geboren 1983, ist der Leiter der Brauerei „Altes Tramdepot
 
 Nach der Führung setzen wir uns zusammen mit Herrn Koschahre an einen Tisch, um im Interview unsere Fragen an ihn zu richten. Wir stellen ihm einerseits Fragen, die interessant für uns sind und andererseits solche, die uns helfen, die Faszination hinter dem Bierbrauen zu verstehen. Denn das Brauen ist für viele Brauer nicht nur ein Beruf, sondern vielmehr eine Leidenschaft. 
 
-„Es ist für mich kein Beruf in der Art und Weise. Es ist mein Leben. “  
+*„Es ist für mich kein Beruf in der Art und Weise. Es ist mein Leben. “*  
 
-Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“
+*Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“*
 
 Unsere erste Frage an ihn lautet: „Was hat Sie zum Beruf des Bierbrauers gebracht und was interessiert Sie besonders an diesem Beruf?“ Darauf antwortet er uns prompt: „Also das Erste, was ich gemacht habe. Ich habe eine Wette gewonnen.“ Da sind wir natürlich erst erstaunt. Mit dieser Art von Antwort haben wir nicht gerechnet. Weiter erklärt er, dass er sich mit seinem besten Freund in einer Brauerei beworben habe und er derjenige gewesen sei, der die Stelle bekommen habe. Die Wette sei gewesen, dass der, der angestellt werden würde, einen Kasten Bier erhielt. Doch anfangs sei er von seinem Beruf als Bierbrauer genervt gewesen, weil er nur für das Putzen der Tanks zuständig gewesen sei. Der Spass am Bierbrauen sei erst später gekommen und jetzt ist er [vollkommen ](<>)überzeugt von seinem Beruf. Das Brauen sei für ihn kein Beruf in der Art und Weise, es sei sein Leben. Im Verlauf seiner Ausführung sagt er: „Es *ist für mich kein Beruf in der Art und Weise. Es ist mein Leben.”*
 
