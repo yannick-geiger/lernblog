@@ -1,14 +1,13 @@
 +++
-title = "L'attentat"
+title = "L'attentat de Yasmine Khadra"
 date = "2023-01-09"
 draft = false
 pinned = false
+tags = ["Französisch", "Lektüre", "Francophonie"]
 +++
-# L'attentat
-
 ## Auteur:
 
-L'auteur du livre est un écrivain algérien du nom de Yasmina Khandra. Yasmina Khandra est un pseudonyme pour son vrai nom Mohammed Moulessehoul. Il vit aujourd'hui en exil en France sur la villa "Aix-en Provence". Il est né le 10 janvier 1955. Il tient son nom de Yasmina Khadra de sa femme et ce nom signifie fleur de jasmin verte.
+L'auteur du livre est un écrivain algérien du nom de Yasmina Khandra. Yasmina Khandra est un pseudonyme pour son vrai nom Mohammed Moulessehoul. Il vit aujourd'hui en exil en France sur la ville "Aix-en Provence". Il est né le 10 janvier 1955. Il tient son nom de Yasmina Khadra de sa femme et ce nom signifie fleur de jasmin verte. Son amour pour le verbe et la langue frainçais l'aidera à s'accrocher à son rêve d'enfant: devenir ecrivain. Pour échapper à la censure militaire, il écrira pendant onze années dans la clandestinité. Yasmina Khadra sont les deux prénoms de son épouse.
 
 ## Résumé:
 
@@ -16,4 +15,12 @@ Amin Jaafari est un médecin très respecté à Tel Aviv. Sur son lieu de travai
 
 ## Avis:
 
-J'ai beaucoup aimé ce livre, car le suspense est là jusqu'à la fin. Le thème du livre est très intéressant et proche de la réalité. Le fait d'être proche de la réalité rend le livre plus passionnant à mes yeux et me rapproche du sujet.
+J'ai beaucoup aimé ce livre, car le suspense est là jusqu'à la fin. Le thème du livre est très intéressant et proche de la réalité. Le fait d'être proche de la réalité rend le livre plus passionnant à mes yeux et me rapproche du sujet. Ce livre est fortement recommandé aux personnes qui s'intéressent aux drames et qui veulent se pencher sur la discrimination.
+
+### Citation:
+
+"Votre femme était une martyre. Nous lui serons éternellement reconnaissants. Mais ça ne vous autorise pas à chahuter son sacrifice ni à mettre en danger qui que ce soit. Nous respectons votre douleur, respectez notre combat."
+
+### Extrait:
+
+La citation du livre est faite à Amine par un membre du mouvement qui veut le retour d'Israël. Amine ne peut pas encore comprendre cela à l'époque, mais en poursuivant ses recherches, Amine en apprend davantage. Mais il ne veut pas comprendre pourquoi elle a fait ça.
