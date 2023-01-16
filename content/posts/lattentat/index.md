@@ -15,7 +15,7 @@ Amin Jaafari est un médecin très respecté à Tel Aviv. Sur son lieu de travai
 
 ## Avis:
 
-J'ai beaucoup aimé ce livre, car le suspense est là jusqu'à la fin. Le thème du livre est très intéressant et proche de la réalité. Le fait d'être proche de la réalité rend le livre plus passionnant à mes yeux et me rapproche du sujet. Ce livre est fortement recommandé aux personnes qui s'intéressent aux drames et qui veulent se pencher sur la discrimination.
+J'ai beaucoup aimé ce livre, car le suspense est là jusqu'à la fin. Le thème du livre est très intéressant et proche de la réalité. Le fait d'être proche de la réalité rend le livre plus passionnant à mes yeux et me rapproche du sujet. Ce livre est fortement recommandé aux personnes qui s'intéressent aux drames et qui veulent se pencher sur la discrimination et religion.
 
 ### Citation:
 
